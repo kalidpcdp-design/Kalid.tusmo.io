@@ -37,6 +37,16 @@ Bireysel terapi, kişinin kendini daha iyi tanıması, duygularını anlaması v
 
 Aile Danışmanı Kalid Farah olarak, bireysel terapi sürecinde danışanlarıma güvenli ve yargısız bir alan sunarak; kaygı, stres, ilişki problemleri ve yaşam zorluklarıyla başa çıkmalarına destek oluyorum.
 
+4. Cinsel Terapi
+
+Cinsel terapi, bireylerin veya çiftlerin cinsellikle ilgili yaşadıkları sorunları anlamak, çözmek ve daha sağlıklı bir cinsel yaşam kurmalarını desteklemek amacıyla yürütülen profesyonel bir danışmanlık sürecidir.
+
+Cinsellik, ilişkilerin önemli bir parçasıdır ve bu alanda yaşanan sorunlar zamanla iletişim problemlerine, özgüven kaybına ve duygusal uzaklaşmaya neden olabilir.
+
+Uzm. Aile Danışmanı Kalid Farah olarak, cinsel terapi sürecinde danışanlarıma güvenli, gizli ve yargısız bir ortam sunarak; performans kaygısı, isteksizlik, uyum problemleri ve diğer cinsel zorluklarla başa çıkmalarına destek oluyorum.
+
+Amaç, bireylerin ve çiftlerin kendilerini daha rahat ifade edebildiği, sağlıklı ve tatmin edici bir cinsel yaşam oluşturmalarına yardımcı olmaktır.
+
 Bu süreçte, kişinin düşünce ve davranışlarını fark etmesine yardımcı olurken, daha dengeli, güçlü ve farkındalığı yüksek bir yaşam kurmasına rehberlik ediyorum.
 
      
