@@ -1,24 +1,5 @@
 
 
-section {
-    padding: 40px;
-    max-width: 900px;
-    m
-
-.footer-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.footer-box {
-    margin-bottom: 15px;
-}
-
-a {
-    color: #1abc9c;
-    text-decoration:le>
-
 </head>
 
 <body>
@@ -36,11 +17,6 @@ a {
     zaman zaman destek almaları oldukça faydalıdır.
     </p>
 
-    <p>
-    Sürekli tartışmaların yaşandığı, hayal kırıklıklarının arttığı durumlarda 
-    profesyonel destek almak önemlidir. Sorunları ertelemek stres ve tükenmişliğe neden olabilir.
-    </p>
-
-    <h2>Hangi Konularda Destek Alabilirsiniz?</h2>
-    <ul>
+    
+    
         
