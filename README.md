@@ -17,7 +17,6 @@
     zaman zaman destek almaları oldukça faydalıdır.
     </p>
 
-     </p>
      1. Aile ve Çift Terapy
 Aile ve çift terapisi, ilişkilerde yaşanan sorunları anlamak, iletişimi güçlendirmek ve duygusal bağı yeniden inşa etmek amacıyla uygulanan profesyonel bir danışmanlık sürecidir. Bu süreçte çiftlerin birbirlerini daha iyi anlamaları, sağlıklı iletişim kurmaları ve ilişkilerini daha dengeli bir şekilde sürdürebilmeleri hedeflenir.
 
